@@ -1,4 +1,7 @@
-### Hi there 👋
+### **_Hi there_**
+
+My name is Maria, I am one of this years MSc GIS students at UoE. 
+
 
 <!--
 **M-Maily/M-Maily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
